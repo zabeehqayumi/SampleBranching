@@ -16,7 +16,10 @@ class ViewController: UIViewController {
     }
 }
 
-// I am addin my own codes
-// yaa this should show up in github
+
 
 // editing her from terminal
+
+//
+
+///
